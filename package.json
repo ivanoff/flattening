@@ -1,6 +1,6 @@
 {
   "name": "flattening",
-  "version": "2.3.1",
+  "version": "2.4.3",
   "description": "Node.js flattening object",
   "author": "Dimitry Ivanov <2@ivanoff.org.ua> # curl -A cv ivanoff.org.ua",
   "license": "MIT",
